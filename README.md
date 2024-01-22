@@ -1,24 +1,23 @@
 <!-- Add HTML tags for styling -->
 
 <!-- Heading -->
-<h1 align="center">👋 Hello World! I'm [Your Name], Android Alchemist Extraordinaire</h1>
+<h1 align="center">👋 Hello World! I'm Numan Rafeeq, Android Alchemist Extraordinaire</h1>
 
 <!-- Introduction -->
-<p align="center">Passionate Android Developer | Kotlin & Java Sorcerer | Crafting Digital Dreams since 20XX</p>
+<p align="center">Passionate Android Developer | Kotlin & Java Sorcerer | Crafting Digital Dreams since 2020</p>
 
 <!-- Links -->
 <p align="center">
   🚀 <a href="link-to-your-portfolio">Google Playstore Portfolio</a> |
   🌐 <a href="link-to-your-website">Personal Website</a> |
-  📬 <a href="link-to-your-linkedin">LinkedIn</a> |
-  🐦 <a href="link-to-your-twitter">Twitter</a>
+  📬 <a href="https://www.linkedin.com/in/numanrafeeq/">LinkedIn</a> |
 </p>
 
 <!-- About Me -->
 <h2 align="center">🚀 About Me</h2>
 
 <!-- Introduction -->
-<p align="center">Greetings, fellow developers! I am [Your Name], a visionary Android Developer with over two years of enchanting experience. My code-weaving skills have summoned delightful mobile apps into existence, each with its unique charm and functionality.</p>
+<p align="center">Greetings, fellow developers! I am Numan Rafeeq, a visionary Android Developer with over few years of enchanting experience. My code-weaving skills have summoned delightful mobile apps into existence, each with its unique charm and functionality.</p>
 
 <!-- Skills Section -->
 <h2 align="center">🌈 Masterful Skills</h2>
@@ -150,16 +149,6 @@
   <li><strong>Facebook Ads Enigma</strong></li>
 </ul>
 
-<!-- Project Highlights -->
-<h2 align="center">🚀 Project Highlights</h2>
-
-<!-- Project List -->
-<ul>
-  <li><strong>🚀 Project Name 1:</strong> Brief description, link to the project repository or Playstore.</li>
-  <li><strong>🌌 Project Name 2:</strong> Brief description, link to the project repository or Playstore.</li>
-  <!-- ... Add more projects as needed -->
-</ul>
-
 <!-- Developer's Arsenal -->
 <h2 align="center">🛠️ Developer's Arsenal</h2>
 
@@ -175,8 +164,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <strong>LinkedIn:</strong> <a href="link-to-your-linkedin">Your LinkedIn Profile</a> | 
-  <strong>Twitter:</strong> <a href="link-to-your-twitter">Your Twitter Handle</a>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/numanrafeeq/">Your LinkedIn Profile</a> | 
 </p>
 
 <!-- Closing Message -->
